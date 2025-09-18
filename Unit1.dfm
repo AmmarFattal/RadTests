@@ -76,4 +76,12 @@ object Form1: TForm1
     TabOrder = 3
     OnChange = ScrollBar1Change
   end
+  object Button1: TButton
+    Left = 248
+    Top = 240
+    Width = 75
+    Height = 25
+    Caption = 'Button1'
+    TabOrder = 4
+  end
 end

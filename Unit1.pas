@@ -14,6 +14,7 @@ type
     btnStandard: TButton;
     ScrollBar1: TScrollBar;
     Label2: TLabel;
+    Button1: TButton;
     procedure ScrollBar1Change(Sender: TObject);
     procedure btnGoldClick(Sender: TObject);
     procedure btnSilverClick(Sender: TObject);
